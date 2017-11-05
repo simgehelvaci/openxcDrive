@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "136256785114",
+    "project_id": "openxcdrive"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136256785114:android:3a1b9597e3ef9639",
+        "android_client_info": {
+          "package_name": "com.openxc.drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136256785114-edr8r7012jtb87an630gpvrsvb8bbngt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openxc.drive",
+            "certificate_hash": "22775a8871df2532bb0748f57d0a5b7534ddc67d"
+          }
+        },
+        {
+          "client_id": "136256785114-hl3fkjg31p8eg5e1m2h95te784sb31ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UdR--FSUySVaZ7AAmmqjU8MPOdp9wpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136256785114:android:14d96fd59c84c6df",
+        "android_client_info": {
+          "package_name": "com.openxcplatform.drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136256785114-m9effaaehjnnu87rghiod4jgiqlre3in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openxcplatform.drive",
+            "certificate_hash": "22775a8871df2532bb0748f57d0a5b7534ddc67d"
+          }
+        },
+        {
+          "client_id": "136256785114-hl3fkjg31p8eg5e1m2h95te784sb31ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UdR--FSUySVaZ7AAmmqjU8MPOdp9wpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136256785114:android:1e7f9c715a2818dc",
+        "android_client_info": {
+          "package_name": "com.openxc.openxcstarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136256785114-oso1jo3963ssakdn70kert1ha9pa04gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openxc.openxcstarter",
+            "certificate_hash": "22775a8871df2532bb0748f57d0a5b7534ddc67d"
+          }
+        },
+        {
+          "client_id": "136256785114-hl3fkjg31p8eg5e1m2h95te784sb31ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UdR--FSUySVaZ7AAmmqjU8MPOdp9wpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
